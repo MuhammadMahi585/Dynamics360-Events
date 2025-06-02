@@ -35,7 +35,7 @@ To run the website locally:
    git clone https://github.com/MuhammadMahi585/Dynamics360-Events.git
 
 2. Navigate to Project Directory:
-   cd EVENTS
+   ```cd EVENTS```
 
 3. Open html/index.html in your preferred web browser using live server extension.
 
