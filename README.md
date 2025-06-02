@@ -11,6 +11,7 @@
 - **Contact Page** (`html/contact.html`): Shows company contact information.
 
 ## Project Structure
+```
 /
 ├── html/
 │ ├── index.html
@@ -20,9 +21,10 @@
 │ └── styles.css
 ├── js/
 │ ├── scripts.js
-│ └── Events.json # JSON file containing event data
+│ └── Event.json # JSON file containing event data
 └── assets/
 └── logo3.png 
+```
 
 ## Getting Started
 
