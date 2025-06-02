@@ -41,12 +41,12 @@ To run the website locally:
 
 ## Usage
 
-Visit the Home page (html/index.html) to learn about the company.
-Use the Events page (html/events.html) to browse and search upcoming events.
-Go to the Contact page (html/contact.html) for contact details.
+- Visit the Home page (html/index.html) to learn about the company.
+- Use the Events page (html/events.html) to browse and search upcoming events.
+- Go to the Contact page (html/contact.html) for contact details.
 
-# Technologies Used
+## Technologies Used
 
-HTML5,
-CSS3,
-JavaScript
+- HTML5,
+- CSS3,
+- JavaScript
