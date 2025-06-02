@@ -1,38 +1,72 @@
 [
   {
-    "name": "Tech Conference 2025",
-    "date": "2025-06-15",
-    "time": "10:00 AM",
-    "location": "Islamabad Convention Center",
-    "description": "A gathering of top tech minds sharing latest trends in AI and software development."
+    "name": "Future of AI Summit",
+    "date": "2025-08-12",
+    "time": "09:00 AM",
+    "location": "Serena Hotel, Islamabad",
+    "description": "An elite conference exploring the future impact of AI on industries, ethics, and innovation."
   },
   {
-    "name": "Startup Pitch Fest",
-    "date": "2025-07-01",
-    "time": "2:00 PM",
-    "location": "NUST Incubation Center",
-    "description": "Upcoming startups pitch their ideas to investors and mentors."
+    "name": "Startup Hackathon X",
+    "date": "2025-09-05",
+    "time": "8:30 AM",
+    "location": "National Incubation Center, Karachi",
+    "description": "48-hour hackathon bringing together coders, designers, and entrepreneurs to launch new startups."
   },
   {
-    "name": "Design & UX Bootcamp",
-    "date": "2025-07-20",
+    "name": "Tech Nomads Meetup",
+    "date": "2025-07-18",
+    "time": "5:00 PM",
+    "location": "The Hive, Lahore",
+    "description": "Networking event for freelancers and remote developers to share stories and collaborate."
+  },
+  {
+    "name": "CloudOps Masterclass",
+    "date": "2025-10-02",
     "time": "11:00 AM",
     "location": "Online",
-    "description": "Learn modern UI/UX practices from industry leaders."
+    "description": "Deep dive into cloud infrastructure, CI/CD pipelines, and Kubernetes by AWS-certified experts."
   },
-   {
-    "name": "Trip to Shogran Valley",
-    "date": "2025-07-21",
-    "time": "7:00 AM",
-    "location": "Shogran",
-    "description": "Development team to visit shogran valley."
+  {
+    "name": "UX/UI Evolution Workshop",
+    "date": "2025-08-22",
+    "time": "2:00 PM",
+    "location": "Arfa Software Technology Park, Lahore",
+    "description": "Hands-on workshop on the evolution of user experience and modern interface design principles."
   },
-     {
-    "name": "Interns Orientation",
-    "date": "2025-06-22",
-    "time": "7:00 AM",
-    "location": "Shogran",
-    "description": "Development team to visit shogran valley."
+  {
+    "name": "Team Building Adventure",
+    "date": "2025-09-10",
+    "time": "6:00 AM",
+    "location": "Kumrat Valley",
+    "description": "Outdoor retreat focused on leadership, teamwork, and refreshing your creativity in nature."
+  },
+  {
+    "name": "GreenTech Expo 2025",
+    "date": "2025-11-05",
+    "time": "10:30 AM",
+    "location": "Expo Center, Islamabad",
+    "description": "Showcasing innovation in sustainable technologies, clean energy, and smart city infrastructure."
+  },
+  {
+    "name": "Intern Onboarding Week",
+    "date": "2025-07-25",
+    "time": "9:00 AM",
+    "location": "Head Office, Islamabad",
+    "description": "Welcoming our summer interns with orientation, mentorship sessions, and team integration."
+  },
+  {
+    "name": "Game Dev Jam 2025",
+    "date": "2025-10-18",
+    "time": "12:00 PM",
+    "location": "Online & Onsite Hybrid",
+    "description": "Indie game developers gather to design and build games within 48 hours — prizes included!"
+  },
+  {
+    "name": "Women in Tech Forum",
+    "date": "2025-08-30",
+    "time": "3:00 PM",
+    "location": "Fatima Jinnah Women University, Rawalpindi",
+    "description": "Celebrating women innovators in tech and leadership roles across Pakistan’s digital ecosystem."
   }
-
 ]
