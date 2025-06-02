@@ -42,7 +42,7 @@ To run the website locally:
 2. Navigate to Project Directory:
    ```cd EVENTS```
 
-3. Open html/index.html in your preferred web browser using live server extension.
+3. Open index.html in your preferred web browser using live server extension.
 
 ## Usage
 
