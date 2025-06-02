@@ -52,3 +52,17 @@ To run the website locally:
 - HTML5
 - CSS3
 - JavaScript
+
+## Demo
+
+#### Home section
+![Home section](assests/home.png)
+
+#### Events section
+![Events section](assests/events.png)
+
+#### Search Events section
+![Search Events section](assests/SearchEvent.png)
+
+#### Contacts section
+![Contact section](assests/contacts.png)
