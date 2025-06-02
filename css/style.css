@@ -3,7 +3,7 @@ html, body {
   min-height: 100%;
 }
 body {
-  background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1950&q=80') no-repeat center center/cover;
+  background: url('../assests/bg.png') no-repeat center top / cover;
   min-height: 100vh;
   background-repeat: repeat-y;
   background-position: center top;

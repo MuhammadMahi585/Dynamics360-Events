@@ -22,7 +22,7 @@ const displayEvents=(events)=>{
       col.className = 'col-md-4 ';
 
       col.innerHTML = `
-        <div class="card h-100 bg-dark bg-opacity-75 text-white border-light shadow">
+        <div class="card h-100 bg-dark  text-white border-light shadow">
           <div class="card-body ">
             <h5 class="card-title">${event.name}</h5>
             <p class="card-text"><strong>Date:</strong> ${event.date}</p>

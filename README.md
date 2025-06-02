@@ -24,6 +24,7 @@
 │   └── Event.json    # JSON file containing event data
 └── assets/
     └── logo3.png
+    └── bg.png
 ```
 
 ## Getting Started
