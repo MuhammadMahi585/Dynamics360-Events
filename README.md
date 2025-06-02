@@ -47,6 +47,6 @@ Go to the Contact page (html/contact.html) for contact details.
 
 # Technologies Used
 
-HTML5
-CSS3
+HTML5,
+CSS3,
 JavaScript
