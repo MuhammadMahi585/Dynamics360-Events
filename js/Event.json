@@ -7,34 +7,6 @@
     "description": "An elite conference exploring the future impact of AI on industries, ethics, and innovation."
   },
   {
-    "name": "Startup Hackathon X",
-    "date": "2025-09-05",
-    "time": "8:30 AM",
-    "location": "National Incubation Center, Karachi",
-    "description": "48-hour hackathon bringing together coders, designers, and entrepreneurs to launch new startups."
-  },
-  {
-    "name": "Tech Nomads Meetup",
-    "date": "2025-07-18",
-    "time": "5:00 PM",
-    "location": "The Hive, Lahore",
-    "description": "Networking event for freelancers and remote developers to share stories and collaborate."
-  },
-  {
-    "name": "CloudOps Masterclass",
-    "date": "2025-10-02",
-    "time": "11:00 AM",
-    "location": "Online",
-    "description": "Deep dive into cloud infrastructure, CI/CD pipelines, and Kubernetes by AWS-certified experts."
-  },
-  {
-    "name": "UX/UI Evolution Workshop",
-    "date": "2025-08-22",
-    "time": "2:00 PM",
-    "location": "Arfa Software Technology Park, Lahore",
-    "description": "Hands-on workshop on the evolution of user experience and modern interface design principles."
-  },
-  {
     "name": "Team Building Adventure",
     "date": "2025-09-10",
     "time": "6:00 AM",
@@ -54,13 +26,6 @@
     "time": "9:00 AM",
     "location": "Head Office, Islamabad",
     "description": "Welcoming our summer interns with orientation, mentorship sessions, and team integration."
-  },
-  {
-    "name": "Game Dev Jam 2025",
-    "date": "2025-10-18",
-    "time": "12:00 PM",
-    "location": "Online & Onsite Hybrid",
-    "description": "Indie game developers gather to design and build games within 48 hours — prizes included!"
   },
   {
     "name": "Women in Tech Forum",

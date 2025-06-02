@@ -63,10 +63,19 @@ body::before {
   backdrop-filter: blur(5px);
 }
 
-/* Search Box */
+
 #searchedText {
+  border: 1px solid #fff;
   color: white;
   background-color: rgba(32, 30, 30, 0.4);
+}
+.nav-link.active,
+.nav-link:hover {
+  color: #000000 !important;
+}
+
+#searchedText:focus {
+  box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.5)
 }
 #searchedText::placeholder {
   color: white;
@@ -107,7 +116,7 @@ body::before {
 }
 
 
-/* Responsive Adjustments */
+
 @media (max-width: 991px) {
   .custom-nav-link {
     margin-right: 0;
