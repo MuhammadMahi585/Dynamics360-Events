@@ -4,6 +4,10 @@
 
 **Dynamics360.net** is a company website built using **HTML**, **CSS**, and **JavaScript**. It includes a Home page, Events page, and Contact page. Users can view and search for events on the Events page. All HTML files are organized inside the `html` folder for better structure.
 
+## Link
+- https://dynamics360-events.vercel.app/
+
+
 ## Features
 
 - **Home Page** (`html/index.html`): The main landing page introducing the company.
