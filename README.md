@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Dynamics360.net** is a company website built using **HTML**, **CSS**, and **JavaScript**. It includes a Home page, Events page, and Contact page. Users can view and search for events on the Events page. All HTML files are organized inside the `html` folder for better structure.
+**Dynamics360.net** is a company website built using **HTML**, **CSS**, and **JavaScript**. It includes a Home section, Events section, and Contact section. Users can view and search for events on the Events section. All files are organized inside the folders for better structure.
 
 ## Link
 - https://dynamics360-events.vercel.app/
@@ -10,17 +10,14 @@
 
 ## Features
 
-- **Home Page** (`html/index.html`): The main landing page introducing the company.
-- **Events Page** (`html/events.html`): Displays a list of events with search functionality.
-- **Contact Page** (`html/contact.html`): Shows company contact information.
+- **Home Section** (`html/index.html`): The main landing section introducing the company.
+- **Events Section** (`html/events.html`): Displays a list of events with search functionality.
+- **Contact Section** (`html/contact.html`): Shows company contact information.
 
 ## Project Structure
 ```
 /
 ├── index.html
-├── html/
-│   ├── events.html
-│   └── contact.html
 ├── css/
 │   └── styles.css
 ├── js/
@@ -46,9 +43,9 @@ To run the website locally:
 
 ## Usage
 
-- Visit the Home page (html/index.html) to learn about the company.
-- Use the Events page (html/events.html) to browse and search upcoming events.
-- Go to the Contact page (html/contact.html) for contact details.
+- Visit the Home Section to learn about the company.
+- Use the Events Section to browse and search upcoming events.
+- Go to the Contact Section for contact details.
 
 ## Technologies Used
 
