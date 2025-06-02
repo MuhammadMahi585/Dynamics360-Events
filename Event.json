@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Tech Conference 2025",
+    "date": "2025-06-15",
+    "time": "10:00 AM",
+    "location": "Islamabad Convention Center",
+    "description": "A gathering of top tech minds sharing latest trends in AI and software development."
+  },
+  {
+    "name": "Startup Pitch Fest",
+    "date": "2025-07-01",
+    "time": "2:00 PM",
+    "location": "NUST Incubation Center",
+    "description": "Upcoming startups pitch their ideas to investors and mentors."
+  },
+  {
+    "name": "Design & UX Bootcamp",
+    "date": "2025-07-20",
+    "time": "11:00 AM",
+    "location": "Online",
+    "description": "Learn modern UI/UX practices from industry leaders."
+  },
+   {
+    "name": "Trip to Shogran Valley",
+    "date": "2025-07-21",
+    "time": "7:00 AM",
+    "location": "Shogran",
+    "description": "Development team to visit shogran valley."
+  },
+     {
+    "name": "Interns Orientation",
+    "date": "2025-06-22",
+    "time": "7:00 AM",
+    "location": "Shogran",
+    "description": "Development team to visit shogran valley."
+  }
+
+]
