@@ -3,7 +3,7 @@ var eventToDisplay=[];
 //Fetching data from Json file
 const fetchEvents = async() =>{
   try{
- const response =await fetch('Event.json')
+ const response =await fetch('../js/Event.json')
  const event = await response.json()
   eventToDisplay=event;
   displayEvents(eventToDisplay)
