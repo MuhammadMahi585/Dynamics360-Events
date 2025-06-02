@@ -13,17 +13,17 @@
 ## Project Structure
 ```
 /
+├── index.html
 ├── html/
-│ ├── index.html
-│ ├── events.html
-│ └── contact.html
+│   ├── events.html
+│   └── contact.html
 ├── css/
-│ └── styles.css
+│   └── styles.css
 ├── js/
-│ ├── scripts.js
-│ └── Event.json # JSON file containing event data
+│   ├── scripts.js
+│   └── Event.json    # JSON file containing event data
 └── assets/
-└── logo3.png 
+    └── logo3.png
 ```
 
 ## Getting Started
